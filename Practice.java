@@ -6,6 +6,10 @@ public class Practice{
 		int i = input.nextInt();
 		System.out.println(i);
 		
+		Scanner a=new Scanner(System.in);
+		double d =a.nextDouble();
+		System.out.println(d);
+		
 	}
 }
 
