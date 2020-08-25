@@ -9,6 +9,6 @@ public class TestBoolean{
 		boolean b2=5>2;
 		System.out.println(b2);
 		
-		// git is easy.
+		
 	}
 }
